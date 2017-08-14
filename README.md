@@ -67,3 +67,7 @@ xmr-proxy is built in python. I have been testing it with 2.7.3, but it should w
 #License
 
 * This software is provides AS-IS without any warranties of any kind. Please use at your own risk. 
+
+#Known Working Pools
+===================
+* [MinerCircle.com](https://www.minercircle.com)
